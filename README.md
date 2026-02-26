@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student currently pursuing CSE.<br>Currently I'm learning javascript. <br>I'm looking for help with frontend as I'm just getting started.
+I'm a student currently pursuing CSE.<br>Currently I'm learning React JS. <br>I'm looking for help with frontend as I'm just getting started.
 
 
 ## 🌐 Socials:
